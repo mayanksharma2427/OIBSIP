@@ -1,2 +1,2 @@
 # OIBSIP
-this is the landing page of netflix creating with using HTML and CSS.
+This is the landing page of Netflix created using HTML and CSS.
